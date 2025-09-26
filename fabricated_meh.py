@@ -1,4 +1,5 @@
-import random
+# W
+# ~80% faster
 import math
 import heapq
 from collections import defaultdict
